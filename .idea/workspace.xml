@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="273f7a8f-1e9e-4a87-b898-f41e7b73e0c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DogRus/Main_Function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="273f7a8f-1e9e-4a87-b898-f41e7b73e0c9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +75,14 @@
       <option name="presentableId" value="Default" />
       <updated>1647213247255</updated>
     </task>
+    <task id="LOCAL-00001" summary="DONEE">
+      <created>1647215965827</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647215965827</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,5 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DONEE" />
+    <option name="LAST_COMMIT_MESSAGE" value="DONEE" />
   </component>
 </project>
