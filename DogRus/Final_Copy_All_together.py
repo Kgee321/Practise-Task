@@ -6,11 +6,11 @@ Katelyn Gee
 
 def main_function():
     # permanent variables
-    DROP_OFF = "D"
-    PICK_UP = "P"
-    LIST_OF_DOGS = "L"  # I am unsure why it does not what to be capitalised. Can you help me?
-    CHARGE_OF_STAY = "C"
-    CANCEL = "E"
+    drop = "D"
+    pick = "P"
+    roll_of_dogs = "L"  # I am unsure why it does not what to be capitalised. Can you help me?
+    charge = "C"
+    cancel = "E"
 
     # Main code
     print()
@@ -23,15 +23,15 @@ E for exit program.
 """).upper()
 
     # call a function depending on what letter inputted
-    if ask == DROP_OFF:
+    if ask == drop:
         drop_off()
-    elif ask == PICK_UP:
+    elif ask == pick:
         pick_up()
-    elif ask == LIST_OF_DOGS:
+    elif ask == roll_of_dogs:
         list_of_dogs()
-    elif ask == CHARGE_OF_STAY:
+    elif ask == charge:
         calc_cost(len(roll))
-    elif ask == CANCEL:
+    elif ask == cancel:
         exit_program()
     else:
         # if an incorrect letter is inputted, restart.
