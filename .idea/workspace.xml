@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="273f7a8f-1e9e-4a87-b898-f41e7b73e0c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DogRus/Drop_Off.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DogRus/Exit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DogRus/Final_Copy_All_together.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DogRus/Pick_up.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DogRus/calc_cost.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DogRus/print_roll.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DogRus/Main_Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/DogRus/Main_Function.py" afterDir="false" />
-    </list>
+    <list default="true" id="273f7a8f-1e9e-4a87-b898-f41e7b73e0c9" name="Changes" comment="DogRus finsih" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647215965827</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DogRus finsih">
+      <created>1647315722048</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647315722048</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +127,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="DONEE" />
-    <option name="LAST_COMMIT_MESSAGE" value="DONEE" />
+    <MESSAGE value="DogRus finsih" />
+    <option name="LAST_COMMIT_MESSAGE" value="DogRus finsih" />
   </component>
 </project>
