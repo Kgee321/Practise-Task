@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="273f7a8f-1e9e-4a87-b898-f41e7b73e0c9" name="Changes" comment="DogRus finsih">
-      <change afterPath="$PROJECT_DIR$/Kidz Fun Holiday/End screen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kidz Fun Holiday/Final_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kidz Fun Holiday/Main_function.py" afterDir="false" />
+    <list default="true" id="273f7a8f-1e9e-4a87-b898-f41e7b73e0c9" name="Changes" comment="Starting Kidz holiday">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DogRus/Final_Copy_All_together.py" beforeDir="false" afterPath="$PROJECT_DIR$/DogRus/Final_Copy_All_together.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kidz Fun Holiday/Final_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kidz Fun Holiday/Final_code.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647315722048</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Starting Kidz holiday">
+      <created>1647384625217</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647384625217</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +182,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="DONEE" />
     <MESSAGE value="DogRus finsih" />
-    <option name="LAST_COMMIT_MESSAGE" value="DogRus finsih" />
+    <MESSAGE value="Starting Kidz holiday" />
+    <option name="LAST_COMMIT_MESSAGE" value="Starting Kidz holiday" />
   </component>
 </project>
