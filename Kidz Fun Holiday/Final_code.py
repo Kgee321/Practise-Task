@@ -47,9 +47,9 @@ def end_screen(kidz_age, kidz_people, fun_age, fun_people):
     print()
     print(f"Here is the average age and total child in the holiday program:"
           f"\nTotal children in Active Kidz: {kidz_people}"
-          f"\nAverage Active Kidz age: {kidz_age/kidz_people:,0f}"
+          f"\nAverage Active Kidz age: {kidz_age/kidz_people:.0f}"
           f"\nTotal children in Fun in the Sun: {fun_people}"
-          f"\nAverage Fun in the Sun age: {fun_age/fun_people:,0f}")
+          f"\nAverage Fun in the Sun age: {fun_age/fun_people:.0f}")
 
 
 # starting variables
