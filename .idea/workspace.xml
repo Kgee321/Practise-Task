@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="273f7a8f-1e9e-4a87-b898-f41e7b73e0c9" name="Changes" comment="Main function started">
+    <list default="true" id="273f7a8f-1e9e-4a87-b898-f41e7b73e0c9" name="Changes" comment="Main function ended">
+      <change afterPath="$PROJECT_DIR$/Paper Scissors Rock/Final_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Paper Scissors Rock/Winner function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Paper Scissors Rock/main function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Paper Scissors Rock/main function.py" afterDir="false" />
     </list>
@@ -41,7 +43,7 @@
       <recent name="C:\Users\elnsm\OneDrive - Middleton Grange School\2022\Computer Science\1.7 Develop a computer program\Assessment\Practise Test\Practise-Task\DogRus" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main function">
+  <component name="RunManager" selected="Python.Final_code (1)">
     <configuration name="Final_Copy_All_together" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practise-Task" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,6 +65,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Final_code (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Practise-Task" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Paper Scissors Rock" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Paper Scissors Rock/Final_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Final_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practise-Task" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,27 +99,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kidz Fun Holiday/Final_code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Main_Function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Practise-Task" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DogRus" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DogRus/Main_Function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Final_code (1)" />
         <item itemvalue="Python.main function" />
         <item itemvalue="Python.Final_code" />
         <item itemvalue="Python.Main_function" />
         <item itemvalue="Python.Final_Copy_All_together" />
-        <item itemvalue="Python.Main_Function" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647733666596</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Main function ended">
+      <created>1647736004586</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1647736004586</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,6 +229,7 @@
     <MESSAGE value="DogRus finsih" />
     <MESSAGE value="Starting Kidz holiday" />
     <MESSAGE value="Main function started" />
-    <option name="LAST_COMMIT_MESSAGE" value="Main function started" />
+    <MESSAGE value="Main function ended" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main function ended" />
   </component>
 </project>
