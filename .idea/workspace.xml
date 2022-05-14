@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="273f7a8f-1e9e-4a87-b898-f41e7b73e0c9" name="Changes" comment="Final code">
-      <change afterPath="$PROJECT_DIR$/P S R new/04_winner_per_round_v2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P S R new/00_Base_component_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/P S R new/00_Base_component_v1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P S R new/04_winner_per_round_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/P S R new/04_winner_per_round_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P S R new/06_question_generator_v6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P S R new/07_question_generator_function_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P S R new/Testing 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P S R new/testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/P S R new" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Final Test/Final Test Code/Assessment-Code-Private" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -48,7 +50,7 @@
       <recent name="C:\Users\elnsm\OneDrive - Middleton Grange School\2022\Computer Science\1.7 Develop a computer program\Assessment\Practise Test\Practise-Task\DogRus" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.00_Base_component_v1">
+  <component name="RunManager" selected="Python.07_question_generator_function_v2">
     <configuration name="00_Base_component_v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practise-Task" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_computer_choice_v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_question_generator_v6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practise-Task" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P S R new/03_computer_choice_v1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P S R new/06_question_generator_v6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_computer_choice_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_question_generator_function_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practise-Task" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P S R new/03_computer_choice_v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P S R new/07_question_generator_function_v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_winner_per_round_v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Testing 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practise-Task" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,7 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P S R new/04_winner_per_round_v1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P S R new/Testing 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_winner_per_round_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="testing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practise-Task" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P S R new/04_winner_per_round_v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P S R new/testing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.07_question_generator_function_v2" />
+        <item itemvalue="Python.06_question_generator_v6" />
+        <item itemvalue="Python.Testing 2" />
+        <item itemvalue="Python.testing" />
         <item itemvalue="Python.00_Base_component_v1" />
-        <item itemvalue="Python.04_winner_per_round_v2" />
-        <item itemvalue="Python.04_winner_per_round_v1" />
-        <item itemvalue="Python.03_computer_choice_v2" />
-        <item itemvalue="Python.03_computer_choice_v1" />
       </list>
     </recent_temporary>
   </component>
