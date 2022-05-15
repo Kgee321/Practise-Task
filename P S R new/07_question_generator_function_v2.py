@@ -54,10 +54,11 @@ numbers = [["1", "One", "Tahi"],
 # To test if it is working for English and Maori words in the same code
 numbers_2 = numbers.copy()
 
+# Calling on function for Maori
+print("Maori Round \n")
+random_generator(numbers_2, "What is {} in English? ", 0, 2, 1)
+
 # Calling on function for English
-print("English round \n")
+print("English Round \n")
 random_generator(numbers, "What is {} in Maori? ", 2, 0, 0)
 
-# Calling on function for Maori
-print("Maori round \n")
-random_generator(numbers_2, "What is {} in Englsih? ", 0, 2, 1)

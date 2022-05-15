@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="273f7a8f-1e9e-4a87-b898-f41e7b73e0c9" name="Changes" comment="Final code">
-      <change afterPath="$PROJECT_DIR$/P S R new/06_question_generator_v6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P S R new/07_question_generator_function_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P S R new/Testing 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P S R new/testing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P S R new/07_question_generator_function_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/P S R new/07_question_generator_function_v2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Final Test/Final Test Code/Assessment-Code-Private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
